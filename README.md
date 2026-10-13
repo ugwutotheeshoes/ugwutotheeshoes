@@ -55,6 +55,19 @@
   </tr>
   <tr>
     <td valign="top">
+      <b><a href="https://againstalloddz.netlify.app">Against All Oddz</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A full-stack fashion store for the Against All Oddz brand, from product gallery to checkout, payment and order emails.
+      <ul>
+        <li>Prices appear in the shopper's own currency (NGN, USD, GBP or EUR), using IP geolocation and live exchange rates cached with an expiry</li>
+        <li>Paystack checkout, with payments and shipping handled by its own Express API</li>
+        <li>Order confirmation emails through SendGrid, plus sign-in and order history with Firebase</li>
+      </ul>
+      <sub>Client: React · Redux Toolkit · Firebase · Paystack&nbsp;&nbsp;|&nbsp;&nbsp;API: Node.js · Express · MongoDB · SendGrid</sub><br><br>
+      <a href="https://againstalloddz.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-againstalloddz.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <b><a href="https://kwuo.xyz">Kwuo</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
       Part of OMS Labs. An Igbo language-learning platform built around short word games: riddles, word matching, a picture quiz
       and Heads Up.
