@@ -25,6 +25,7 @@
 
 - Technical writer at **Hackmamba**, writing developer tutorials on tools like Appwrite, Cloudinary, Xata and Stripe.
 - I build web and mobile apps end to end: **React, Next.js and React Native (Expo)** on the front, **Node.js, Express and MongoDB** behind them.
+- Sole developer of the **OMS Labs** suite for Odinani Mystery School: five live products that preserve the Igbo language and worldview, each with its own admin dashboard and API.
 - Shipped **Izu Igbo Calendar** to Google Play, where it has 500+ downloads.
 - Lately I've been building AI-powered media apps with **Cloudinary and OpenAI**, and writing about them on the Cloudinary blog.
 - 100+ public repositories since 2017, from small experiments to full apps.
@@ -41,14 +42,14 @@
   <tr>
     <td valign="top">
       <b><a href="https://izuigbocalendar.com">Izu Igbo Calendar</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      A web and mobile calendar for the Igbo four-day market week (Eke, Orie, Afọ, Nkwọ). See today's market day,
+      Part of OMS Labs. A web and mobile calendar for the Igbo four-day market week (Eke, Orie, Afọ, Nkwọ). See today's market day,
       look up any date, find your Igbo birthday and follow the moon phases.
       <ul>
         <li>Published on Google Play with 500+ downloads</li>
         <li>Location-aware timezone detection, with an IP-based fallback when GPS isn't available</li>
         <li>Day, month and year views, cached locally so moving between years stays instant</li>
       </ul>
-      <sub>Web: React · TypeScript · Tailwind CSS&nbsp;&nbsp;|&nbsp;&nbsp;Mobile: Expo · React Native · Expo Router</sub><br><br>
+      <sub>Web: React · TypeScript · Tailwind CSS&nbsp;&nbsp;|&nbsp;&nbsp;Mobile: Expo · React Native&nbsp;&nbsp;|&nbsp;&nbsp;API: Node.js · Express · MongoDB · Cloudinary</sub><br><br>
       <a href="https://izuigbocalendar.com"><img alt="Website" src="https://img.shields.io/badge/Website-izuigbocalendar.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
       <a href="https://play.google.com/store/apps/details?id=com.calendar.izuigbo"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-500%2B_downloads-0A0A0A?style=flat-square&logo=googleplay&logoColor=white"></a>
     </td>
@@ -56,7 +57,7 @@
   <tr>
     <td valign="top">
       <b><a href="https://kwuo.xyz">Kwuo</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      An Igbo language-learning platform built around short word games: riddles, word matching, a picture quiz
+      Part of OMS Labs. An Igbo language-learning platform built around short word games: riddles, word matching, a picture quiz
       and Heads Up.
       <ul>
         <li>Heads Up uses the phone's motion sensors: tilt to score or pass</li>
@@ -69,8 +70,34 @@
   </tr>
 </table>
 
+#### More from the OMS Labs suite
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://ilufinder.com">Ilu Finder</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A database of Igbo proverbs with English translations, searchable by theme, meaning or keyword, with its own admin CMS.<br>
+      <sub>React · Express · MongoDB · Cloudinary</sub><br><br>
+      <a href="https://ilufinder.com"><img alt="Website" src="https://img.shields.io/badge/Website-ilufinder.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://afasimulator.com">Afa Simulator</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      An interactive guide to the 16 basic Afa Ugiri patterns of Igbo divination.<br>
+      <sub>React · Tailwind CSS · Express · MongoDB</sub><br><br>
+      <a href="https://afasimulator.com"><img alt="Website" src="https://img.shields.io/badge/Website-afasimulator.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://igbocontentcreatorsdirectory.com/creators">Igbo Content Creators Directory</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A curated hub of creators sharing the Igbo way of life, with a drag-and-drop admin for curation.<br>
+      <sub>React · Tailwind CSS</sub><br><br>
+      <a href="https://igbocontentcreatorsdirectory.com/creators"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
+
 ### Smaller builds
 
+- [Auto808](https://auto808.netlify.app/): a car dealership site with inventory search and Google Maps · private repo
 - [Sevanis](https://github.com/ugwutotheeshoes/furniture-store): an e-commerce furniture store · [live](https://sevanis.netlify.app/)
 - [Worldwise](https://github.com/ugwutotheeshoes/react-worldwise): a map that tracks every city you visit · [live](https://wurldwise.netlify.app/)
 - [Popcorn](https://github.com/ugwutotheeshoes/popcorn-v2): a movie renting app in React Native and TypeScript
