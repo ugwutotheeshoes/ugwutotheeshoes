@@ -55,19 +55,6 @@
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://againstalloddz.netlify.app">Against All Oddz</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      A full-stack fashion store for the Against All Oddz brand, from product gallery to checkout, payment and order emails.
-      <ul>
-        <li>Prices appear in the shopper's own currency (NGN, USD, GBP or EUR), using IP geolocation and live exchange rates cached with an expiry</li>
-        <li>Paystack checkout, with payments and shipping handled by its own Express API</li>
-        <li>Order confirmation emails through SendGrid, plus sign-in and order history with Firebase</li>
-      </ul>
-      <sub>Client: React · Redux Toolkit · Firebase · Paystack&nbsp;&nbsp;|&nbsp;&nbsp;API: Node.js · Express · MongoDB · SendGrid</sub><br><br>
-      <a href="https://againstalloddz.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-againstalloddz.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
       <b><a href="https://kwuo.xyz">Kwuo</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
       Part of OMS Labs. An Igbo language-learning platform built around short word games: riddles, word matching, a picture quiz
       and Heads Up.
@@ -78,6 +65,19 @@
       </ul>
       <sub>Client: React 19 · Vite · TanStack Query · Tailwind CSS&nbsp;&nbsp;|&nbsp;&nbsp;API: Node.js · Express · MongoDB</sub><br><br>
       <a href="https://kwuo.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-kwuo.xyz-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/ugwutotheeshoes/furniture-store">Sevanis</a></b>&nbsp;&nbsp;<a href="https://github.com/ugwutotheeshoes/furniture-store"><img alt="Public repo" src="https://img.shields.io/badge/Public_repo-2DA44E?style=flat-square&logo=github&logoColor=white"></a><br>
+      An e-commerce furniture store, from browsing the catalogue to paying at checkout.
+      <ul>
+        <li>Secure sign-in with Auth0</li>
+        <li>Card payments through Stripe Checkout</li>
+        <li>Product catalogue and cart built with React and styled-components</li>
+      </ul>
+      <sub>React · Stripe · Auth0 · styled-components</sub><br><br>
+      <a href="https://sevanis.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-sevanis.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
   </tr>
 </table>
@@ -93,17 +93,16 @@
       <a href="https://ilufinder.com"><img alt="Website" src="https://img.shields.io/badge/Website-ilufinder.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
     <td width="33%" valign="top">
+      <b><a href="https://againstalloddz.netlify.app">Against All Oddz</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A full-stack fashion store with prices in the shopper's own currency, Paystack checkout and order emails.<br>
+      <sub>React · Redux Toolkit · Express · MongoDB · Paystack</sub><br><br>
+      <a href="https://againstalloddz.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-againstalloddz.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+    </td>
+    <td width="33%" valign="top">
       <b><a href="https://auto808.netlify.app/">Auto808</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
       A car dealership site with a searchable, paginated inventory and Google Maps.<br>
       <sub>React · Google Maps API · EmailJS</sub><br><br>
       <a href="https://auto808.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-auto808.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/ugwutotheeshoes/furniture-store">Sevanis</a></b><br>
-      <a href="https://github.com/ugwutotheeshoes/furniture-store"><img alt="Public repo" src="https://img.shields.io/badge/Public_repo-2DA44E?style=flat-square&logo=github&logoColor=white"></a><br>
-      An e-commerce furniture store with Auth0 sign-in and Stripe checkout.<br>
-      <sub>React · Stripe · Auth0 · styled-components</sub><br><br>
-      <a href="https://sevanis.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-sevanis.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
   </tr>
 </table>
