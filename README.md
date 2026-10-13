@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=F5A30B&center=true&vCenter=true&width=640&lines=Software+Engineer;Technical+Writer+at+Hackmamba;React+%C2%B7+Next.js+%C2%B7+React+Native;Turning+code+into+tutorials+people+finish">
-    <img alt="Software Engineer. Technical Writer at Hackmamba. React, Next.js, React Native." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=B86A00&center=true&vCenter=true&width=640&lines=Software+Engineer;Technical+Writer+at+Hackmamba;React+%C2%B7+Next.js+%C2%B7+React+Native;Turning+code+into+tutorials+people+finish">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=F5A30B&center=true&vCenter=true&width=640&lines=Software+Engineer+at+OMS+Labs;Web+and+mobile,+end+to+end;React+%C2%B7+Next.js+%C2%B7+React+Native;Turning+code+into+tutorials+people+finish">
+    <img alt="Software Engineer at OMS Labs. Web and mobile, end to end. React, Next.js, React Native." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=B86A00&center=true&vCenter=true&width=640&lines=Software+Engineer+at+OMS+Labs;Web+and+mobile,+end+to+end;React+%C2%B7+Next.js+%C2%B7+React+Native;Turning+code+into+tutorials+people+finish">
   </picture>
 </p>
 
@@ -23,11 +23,10 @@
 
 ### About me
 
-- Technical writer at **Hackmamba**, writing developer tutorials on tools like Appwrite, Cloudinary, Xata and Stripe.
+- Software engineer at **OMS Labs**, where I'm the sole developer of its product suite for Odinani Mystery School: five live products that preserve the Igbo language and worldview, each with its own admin dashboard and API.
 - I build web and mobile apps end to end: **React, Next.js and React Native (Expo)** on the front, **Node.js, Express and MongoDB** behind them.
-- Sole developer of the **OMS Labs** suite for Odinani Mystery School: five live products that preserve the Igbo language and worldview, each with its own admin dashboard and API.
 - Shipped **Izu Igbo Calendar** to Google Play, where it has 500+ downloads.
-- Lately I've been building AI-powered media apps with **Cloudinary and OpenAI**, and writing about them on the Cloudinary blog.
+- Previously a technical writer at **Hackmamba**, writing developer tutorials on Appwrite, Cloudinary, Xata and Stripe. I still write about AI-powered media on the Cloudinary blog.
 - 100+ public repositories since 2017, from small experiments to full apps.
 
 ### Tech I work with
@@ -70,35 +69,36 @@
   </tr>
 </table>
 
-#### More from the OMS Labs suite
+#### More projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <b><a href="https://ilufinder.com">Ilu Finder</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      A database of Igbo proverbs with English translations, searchable by theme, meaning or keyword, with its own admin CMS.<br>
+      Part of OMS Labs. A database of Igbo proverbs with English translations, searchable by theme, meaning or keyword, with its own admin CMS.<br>
       <sub>React · Express · MongoDB · Cloudinary</sub><br><br>
       <a href="https://ilufinder.com"><img alt="Website" src="https://img.shields.io/badge/Website-ilufinder.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://afasimulator.com">Afa Simulator</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      An interactive guide to the 16 basic Afa Ugiri patterns of Igbo divination.<br>
-      <sub>React · Tailwind CSS · Express · MongoDB</sub><br><br>
-      <a href="https://afasimulator.com"><img alt="Website" src="https://img.shields.io/badge/Website-afasimulator.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+      <b><a href="https://auto808.netlify.app/">Auto808</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A car dealership site with a searchable, paginated inventory and Google Maps.<br>
+      <sub>React · Google Maps API · EmailJS</sub><br><br>
+      <a href="https://auto808.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-auto808.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://igbocontentcreatorsdirectory.com/creators">Igbo Content Creators Directory</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      A curated hub of creators sharing the Igbo way of life, with a drag-and-drop admin for curation.<br>
-      <sub>React · Tailwind CSS</sub><br><br>
-      <a href="https://igbocontentcreatorsdirectory.com/creators"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+      <b><a href="https://github.com/ugwutotheeshoes/furniture-store">Sevanis</a></b><br>
+      <a href="https://github.com/ugwutotheeshoes/furniture-store"><img alt="Public repo" src="https://img.shields.io/badge/Public_repo-2DA44E?style=flat-square&logo=github&logoColor=white"></a><br>
+      An e-commerce furniture store with Auth0 sign-in and Stripe checkout.<br>
+      <sub>React · Stripe · Auth0 · styled-components</sub><br><br>
+      <a href="https://sevanis.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-sevanis.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
   </tr>
 </table>
 
 ### Smaller builds
 
-- [Auto808](https://auto808.netlify.app/): a car dealership site with inventory search and Google Maps · private repo
-- [Sevanis](https://github.com/ugwutotheeshoes/furniture-store): an e-commerce furniture store · [live](https://sevanis.netlify.app/)
+- [Afa Simulator](https://afasimulator.com): an interactive guide to the 16 basic Afa Ugiri patterns of Igbo divination · OMS Labs · private repo
+- [Igbo Content Creators Directory](https://igbocontentcreatorsdirectory.com/creators): a curated hub of Igbo creators with a drag-and-drop admin · OMS Labs · private repo
 - [Worldwise](https://github.com/ugwutotheeshoes/react-worldwise): a map that tracks every city you visit · [live](https://wurldwise.netlify.app/)
 - [Popcorn](https://github.com/ugwutotheeshoes/popcorn-v2): a movie renting app in React Native and TypeScript
 - [URL Shortener](https://github.com/ugwutotheeshoes/remix-url-shortener): Remix on Appwrite function templates
