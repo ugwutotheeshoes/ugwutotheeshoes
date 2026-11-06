@@ -69,6 +69,36 @@
   </tr>
   <tr>
     <td valign="top">
+      <b><a href="https://aga1nstallodds.netlify.app/shop">Oddman</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A storefront, admin dashboard and API for an independent streetwear label that sells in drops, on one design system
+      of 1px lines: loud in the shop, quiet in the admin.
+      <ul>
+        <li>Lookbook product pages with a fixed purchase panel and a size guide that highlights the size you picked</li>
+        <li>Paystack checkout with shipping rates, payment verification and order confirmation emails</li>
+        <li>Admin for products, stock and orders, sorted by what needs action, with JWT sign-in</li>
+      </ul>
+      <sub>React · TypeScript · Tailwind CSS · Express · MongoDB · Paystack · Netlify Functions</sub><br><br>
+      <a href="https://aga1nstallodds.netlify.app/shop"><img alt="Website" src="https://img.shields.io/badge/Website-aga1nstallodds.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+      <a href="https://faberand.co/#work/oddman"><img alt="Case study" src="https://img.shields.io/badge/Case_study-Faber_%26_Co.-0A0A0A?style=flat-square"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://180autos.netlify.app/">180 Autos</a></b>&nbsp;&nbsp;<img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
+      A car dealership site for a premium Abuja dealer, with a scroll-driven pixel-art hero, a live inventory and an admin the
+      team runs themselves.
+      <ul>
+        <li>Searchable inventory with filters, car pages, and test-drive, appraisal and contact forms on one EmailJS template</li>
+        <li>Admin with Cloudinary photo uploads, multiple admin accounts, hashed passwords and a lockout after failed sign-ins</li>
+        <li>Serverless API on Netlify Functions and MongoDB Atlas, with no keys or passwords in the browser</li>
+      </ul>
+      <sub>React 19 · TypeScript · Tailwind CSS 4 · Netlify Functions · MongoDB · Cloudinary · EmailJS</sub><br><br>
+      <a href="https://180autos.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-180autos.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
+      <a href="https://faberand.co/#work/180-autos"><img alt="Case study" src="https://img.shields.io/badge/Case_study-Faber_%26_Co.-0A0A0A?style=flat-square"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <b><a href="https://github.com/ugwutotheeshoes/furniture-store">Sevanis</a></b>&nbsp;&nbsp;<a href="https://github.com/ugwutotheeshoes/furniture-store"><img alt="Public repo" src="https://img.shields.io/badge/Public_repo-2DA44E?style=flat-square&logo=github&logoColor=white"></a><br>
       An e-commerce furniture store, from browsing the catalogue to paying at checkout.
       <ul>
@@ -86,23 +116,11 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
       <b><a href="https://ilufinder.com">Ilu Finder</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
       Part of OMS Labs. A database of Igbo proverbs with English translations, searchable by theme, meaning or keyword, with its own admin CMS.<br>
       <sub>React · Express · MongoDB · Cloudinary</sub><br><br>
       <a href="https://ilufinder.com"><img alt="Website" src="https://img.shields.io/badge/Website-ilufinder.com-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://againstalloddz.netlify.app">Against All Oddz</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      A full-stack fashion store with prices in the shopper's own currency, Paystack checkout and order emails.<br>
-      <sub>React · Redux Toolkit · Express · MongoDB · Paystack</sub><br><br>
-      <a href="https://againstalloddz.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-againstalloddz.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://auto808.netlify.app/">Auto808</a></b><br><img alt="Private repo" src="https://img.shields.io/badge/Private_repo-57606A?style=flat-square&logo=github&logoColor=white"><br>
-      A car dealership site with a searchable, paginated inventory and Google Maps.<br>
-      <sub>React · Google Maps API · EmailJS</sub><br><br>
-      <a href="https://auto808.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-auto808.netlify.app-F5A30B?style=flat-square&logo=googlechrome&logoColor=white"></a>
     </td>
   </tr>
 </table>
